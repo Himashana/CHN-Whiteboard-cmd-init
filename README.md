@@ -3,7 +3,7 @@ CHN Whiteboard installation through command prompt.
 
 >Follow the given instructions to install the CHN Whiteboard through the command prompt.
 
-- [ ] Step 1
+Step 1
 
 ``` 
 git clone https://github.com/Himashana/CHN-Whiteboard-cmd-installer.git
