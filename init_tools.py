@@ -82,7 +82,7 @@ elif f1_data == 'get-user-input':
     f1.close()
 
 elif f1_data == 'download-files':
-    print('Extracting required files...', end='\r')
+    print('Extracting and installing required files...', end='\r')
     
     f5 = open('data003.txt', 'w')
     f5.write('Extracting required files...')
