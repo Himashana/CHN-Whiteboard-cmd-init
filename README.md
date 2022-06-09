@@ -1,3 +1,5 @@
+> This tool was discontinued temporarily and not be maintained.
+> 
 # CHN-Whiteboard-cmd-init
 CHN Whiteboard installation through command prompt.
 
